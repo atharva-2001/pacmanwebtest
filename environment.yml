@@ -1,0 +1,7 @@
+name: pacmanwebtest
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - flask
+  - python
